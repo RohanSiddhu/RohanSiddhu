@@ -83,5 +83,7 @@
 
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansiddhu&show_icons=true&locale=en&layout=compact" alt="rohansiddhu" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanSiddhu&show_icons=true&locale=en&layout=compact&theme=dark" height="220" alt="RohanSiddhu" />
+</div>
 
