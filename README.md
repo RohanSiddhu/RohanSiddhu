@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Rohan Siddhu from Inida.<br><br>- 🔭 I’m a developer.<br/>- 📚 I'm currently learning GTest framework</p>
+<p align="left">I'm Rohan Siddhu from Inida.<br><br>- 🔭 I’m a developer.</p>
 
 ###
 
