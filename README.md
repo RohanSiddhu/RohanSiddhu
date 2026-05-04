@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Rohan Siddhu from Inida.<br><br>- 🔭 I’m a developer.</p>
+<p align="left">I'm Rohan Siddhu from India.<br><br>- 🔭 I’m a developer.</p>
 
 ###
 
